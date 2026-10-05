@@ -1,2 +1,2 @@
-# Medical-Statistics-R-Practice
-R practice for MATH515 and MATH517
+# Medical-Statistics-R-Practice.
+R practice for MATH515 and MATH517.
